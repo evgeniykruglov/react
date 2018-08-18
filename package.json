@@ -1,0 +1,27 @@
+{
+  "name": "react_mediasoft",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evgeniykruglov/react.git"
+  },
+  "author": "evgeniy.kruglov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evgeniykruglov/react/issues"
+  },
+  "homepage": "https://github.com/evgeniykruglov/react#readme",
+  "devDependencies": {
+    "webpack": "^4.16.5",
+    "webpack-cli": "^3.1.0"
+  },
+  "dependencies": {
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  }
+}
